@@ -11,6 +11,7 @@ namespace RepoTestConsoleApp
         static void Main(string[] args)
         {
             Console.Write("Hello INT. 123");
+            Console.WriteLine("Indusnet");
         }
     }
 }
